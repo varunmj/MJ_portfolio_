@@ -22,11 +22,42 @@ const Services = () => {
           <h1>
             <b>For Your</b> Business.
           </h1>
-          <Button>WHAT I'M DOING NOW..</Button>
+          <button>WHAT I'M DOING NOW..</button>
         </div>
       </motion.div>
       <motion.div className ="listContainer">
-        <div className="box"></div>
+        <div className="box">
+          <h2>Branding</h2>
+          <p>
+            I have worked closely with Amazon AWS's Enterprise customers to solve their Production issues as an Escalations Engineer.  
+            I have worked on lot of internal projects and developed tools for Internal use at AWS CS and AWS PS. 
+          </p>
+          <button>Go</button>
+        </div>
+        <div className="box">
+          <h2>Branding</h2>
+          <p>
+            I have worked closely with Amazon AWS's Enterprise customers to solve their Production issues as an Escalations Engineer.  
+            I have worked on lot of internal projects and developed tools for Internal use at AWS CS and AWS PS. 
+          </p>
+          <button>Go</button>
+        </div>
+        <div className="box">
+          <h2>Branding</h2>
+          <p>
+            I have worked closely with Amazon AWS's Enterprise customers to solve their Production issues as an Escalations Engineer.  
+            I have worked on lot of internal projects and developed tools for Internal use at AWS CS and AWS PS. 
+          </p>
+          <button>Go</button>
+        </div>
+        <div className="box">
+          <h2>Branding</h2>
+          <p>
+            I have worked closely with Amazon AWS's Enterprise customers to solve their Production issues as an Escalations Engineer.  
+            I have worked on lot of internal projects and developed tools for Internal use at AWS CS and AWS PS. 
+          </p>
+          <button>Go</button>
+        </div>
       </motion.div>
 
     </motion.div>
